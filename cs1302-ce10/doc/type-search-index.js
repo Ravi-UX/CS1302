@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"cs1302.ce10","l":"Assignment"},{"p":"cs1302.ce10","l":"Course"},{"p":"cs1302.ce10","l":"Email"},{"p":"cs1302.ce10","l":"Homework"},{"p":"cs1302.ce10","l":"Person"},{"p":"cs1302.ce10","l":"Professor"},{"p":"cs1302.ce10","l":"Quiz"},{"p":"cs1302.ce10","l":"Student"}]

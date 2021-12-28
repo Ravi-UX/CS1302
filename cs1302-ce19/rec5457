@@ -1,0 +1,36 @@
+cs1302-ce19:
+total 76
+drwxr-xr-x. 3 myid    28 Nov 15 19:00 bin
+-rw-r--r--. 1 myid 11446 Nov 15 18:54 README.md
+-rw-r--r--. 1 myid   929 Nov 15 21:00 rec16551
+-rw-r--r--. 1 myid     0 Nov 17 15:26 rec5457
+-rw-r--r--. 1 myid 57245 Nov 15 18:54 ScreenShot.png
+drwxr-xr-x. 3 myid    20 Nov 15 18:54 src
+-rw-r--r--. 1 myid    31 Nov 15 20:59 SUBMISSION.md
+
+cs1302-ce19/bin:
+total 0
+drwxr-xr-x. 3 myid 26 Nov 15 19:00 cs1302
+
+cs1302-ce19/bin/cs1302:
+total 0
+drwxr-xr-x. 2 myid 65 Nov 15 19:01 ce19
+
+cs1302-ce19/bin/cs1302/ce19:
+total 8
+-rw-r--r--. 1 myid 2743 Nov 15 20:50 ImageApp.class
+-rw-r--r--. 1 myid  800 Nov 15 20:50 ImageDriver.class
+
+cs1302-ce19/src:
+total 0
+drwxr-xr-x. 3 myid 26 Nov 15 18:54 cs1302
+
+cs1302-ce19/src/cs1302:
+total 0
+drwxr-xr-x. 2 myid 63 Nov 15 20:50 ce19
+
+cs1302-ce19/src/cs1302/ce19:
+total 8
+-rw-r--r--. 1 myid 1677 Nov 15 20:50 ImageApp.java
+-rw-r--r--. 1 myid  628 Nov 15 18:54 ImageDriver.java
+/home/myid/rtc00422/cs1302-ce19:/home/myid/csci-1302

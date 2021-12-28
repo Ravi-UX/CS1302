@@ -1,0 +1,72 @@
+cs1302-minesweeper-alpha-fixed:
+total 2592
+drwxr-xr-x. 3 myid      28 Oct  7 23:11 bin
+drwxr-xr-x. 2 myid     102 Oct  7 23:11 examples
+-rw-r--r--. 1 myid 2525747 Oct  7 23:11 mine.jpg
+-rw-r--r--. 1 myid   67869 Oct  7 23:11 README.md
+-rw-r--r--. 1 myid       0 Oct  7 23:28 rec15114
+-rw-r--r--. 1 myid    2614 Oct  7 23:11 rec17210
+-rw-r--r--. 1 myid     560 Oct  7 23:27 REFLECTION.md
+drwxr-xr-x. 3 myid      28 Oct  7 23:11 src
+drwxr-xr-x. 2 myid    4096 Oct  7 23:11 tests
+-rw-r--r--. 1 myid      16 Oct  7 23:11 test.txt
+-rw-r--r--. 1 myid    7236 Oct  7 23:11 uml_diagram.asta
+-rw-r--r--. 1 myid   29935 Oct  7 23:11 uml_diagram.png
+
+cs1302-minesweeper-alpha-fixed/bin:
+total 0
+drwxr-xr-x. 3 myid 26 Oct  7 23:11 cs1302
+
+cs1302-minesweeper-alpha-fixed/bin/cs1302:
+total 0
+drwxr-xr-x. 2 myid 78 Oct  7 23:11 game
+
+cs1302-minesweeper-alpha-fixed/bin/cs1302/game:
+total 16
+-rw-r--r--. 1 myid   849 Oct  7 23:20 MinesweeperDriver.class
+-rw-r--r--. 1 myid 10203 Oct  7 23:20 MinesweeperGame.class
+
+cs1302-minesweeper-alpha-fixed/examples:
+total 16
+-rw-r--r--. 1 myid 730 Oct  7 23:11 11-by-11.txt
+-rw-r--r--. 1 myid 310 Oct  7 23:11 11-by-5.txt
+-rw-r--r--. 1 myid 358 Oct  7 23:11 5-by-11.txt
+-rw-r--r--. 1 myid 148 Oct  7 23:11 5-by-5.txt
+
+cs1302-minesweeper-alpha-fixed/src:
+total 0
+drwxr-xr-x. 3 myid 26 Oct  7 23:11 cs1302
+
+cs1302-minesweeper-alpha-fixed/src/cs1302:
+total 0
+drwxr-xr-x. 2 myid 76 Oct  7 23:20 game
+
+cs1302-minesweeper-alpha-fixed/src/cs1302/game:
+total 24
+-rw-r--r--. 1 myid   988 Oct  7 23:11 MinesweeperDriver.java
+-rw-r--r--. 1 myid 19559 Oct  7 23:20 MinesweeperGame.java
+
+cs1302-minesweeper-alpha-fixed/tests:
+total 92
+-rw-r--r--. 1 myid    2 Oct  7 23:11 tc01.in.txt
+-rw-r--r--. 1 myid  867 Oct  7 23:11 tc01.out.txt
+-rw-r--r--. 1 myid   24 Oct  7 23:11 tc01.seed.txt
+-rw-r--r--. 1 myid  187 Oct  7 23:11 tc02.in.txt
+-rw-r--r--. 1 myid 7530 Oct  7 23:11 tc02.out.txt
+-rw-r--r--. 1 myid   30 Oct  7 23:11 tc02.seed.txt
+-rw-r--r--. 1 myid    1 Oct  7 23:11 tc03.in.txt
+-rw-r--r--. 1 myid    0 Oct  7 23:11 tc03.out.txt
+-rw-r--r--. 1 myid   22 Oct  7 23:11 tc03.seed.txt
+-rw-r--r--. 1 myid  236 Oct  7 23:11 tc04.in.txt
+-rw-r--r--. 1 myid 9254 Oct  7 23:11 tc04.out.txt
+-rw-r--r--. 1 myid   30 Oct  7 23:11 tc04.seed.txt
+-rw-r--r--. 1 myid   12 Oct  7 23:11 tc05.in.txt
+-rw-r--r--. 1 myid  923 Oct  7 23:11 tc05.out.txt
+-rw-r--r--. 1 myid   30 Oct  7 23:11 tc05.seed.txt
+-rw-r--r--. 1 myid   44 Oct  7 23:11 tc06.in.txt
+-rw-r--r--. 1 myid 2610 Oct  7 23:11 tc06.out.txt
+-rw-r--r--. 1 myid   24 Oct  7 23:11 tc06.seed.txt
+-rw-r--r--. 1 myid   44 Oct  7 23:11 tc07.in.txt
+-rw-r--r--. 1 myid 2922 Oct  7 23:11 tc07.out.txt
+-rw-r--r--. 1 myid   24 Oct  7 23:11 tc07.seed.txt
+/home/myid/rtc00422/PROJ_DIR/cs1302-minesweeper-alpha-fixed:/home/myid/csci-1302

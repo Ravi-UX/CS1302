@@ -1,0 +1,84 @@
+cs1302-arcade:
+total 1252
+-rw-r--r--. 1 myid     556 Dec 16 04:32 ATTRIBUTION.md
+-rw-r--r--. 1 myid   19121 Dec  1 23:36 LICENSE
+-rw-r--r--. 1 myid     216 Dec  1 23:36 Makefile
+-rw-r--r--. 1 myid    2853 Dec  1 23:36 pom.xml
+-rw-r--r--. 1 myid   33889 Dec  1 23:36 README.md
+-rw-r--r--. 1 myid       0 Dec 16 10:36 rec12139
+-rw-r--r--. 1 myid    2181 Dec 16 04:36 REFLECTION.md
+drwxr-xr-x. 2 myid      40 Dec 14 20:49 resources
+drwxr-xr-x. 3 myid      26 Dec  1 23:36 src
+-rw-r--r--. 1 myid 1205087 Dec  1 23:36 starter-code.png
+drwxr-xr-x. 5 myid      82 Dec  6 17:36 target
+
+cs1302-arcade/resources:
+total 80
+-rw-r--r--. 1 myid 36560 Dec 14 20:49 black.png
+-rw-r--r--. 1 myid 44423 Dec 14 20:49 white.png
+
+cs1302-arcade/src:
+total 0
+drwxr-xr-x. 3 myid 26 Dec  1 23:36 main
+
+cs1302-arcade/src/main:
+total 0
+drwxr-xr-x. 3 myid 28 Dec  1 23:36 java
+
+cs1302-arcade/src/main/java:
+total 0
+drwxr-xr-x. 3 myid 28 Dec  1 23:36 cs1302
+
+cs1302-arcade/src/main/java/cs1302:
+total 0
+drwxr-xr-x. 2 myid 65 Dec 16 10:33 arcade
+
+cs1302-arcade/src/main/java/cs1302/arcade:
+total 24
+-rw-r--r--. 1 myid 17447 Dec 16 10:33 ArcadeApp.java
+-rw-r--r--. 1 myid   784 Dec  1 23:36 ArcadeDriver.java
+
+cs1302-arcade/target:
+total 0
+drwxr-xr-x. 3 myid 28 Dec  6 17:36 classes
+drwxr-xr-x. 3 myid 33 Dec  6 17:36 generated-sources
+drwxr-xr-x. 3 myid 43 Dec  6 17:36 maven-status
+
+cs1302-arcade/target/classes:
+total 0
+drwxr-xr-x. 3 myid 28 Dec  6 17:36 cs1302
+
+cs1302-arcade/target/classes/cs1302:
+total 0
+drwxr-xr-x. 2 myid 105 Dec 16 10:33 arcade
+
+cs1302-arcade/target/classes/cs1302/arcade:
+total 20
+-rw-r--r--. 1 myid 10914 Dec 16 10:33 ArcadeApp.class
+-rw-r--r--. 1 myid  1113 Dec 16 10:33 ArcadeApp$PieceColor.class
+-rw-r--r--. 1 myid  1116 Dec 16 10:33 ArcadeDriver.class
+
+cs1302-arcade/target/generated-sources:
+total 0
+drwxr-xr-x. 2 myid 6 Dec  6 17:36 annotations
+
+cs1302-arcade/target/generated-sources/annotations:
+total 0
+
+cs1302-arcade/target/maven-status:
+total 0
+drwxr-xr-x. 3 myid 29 Dec  6 17:36 maven-compiler-plugin
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin:
+total 0
+drwxr-xr-x. 3 myid 37 Dec  6 17:36 compile
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin/compile:
+total 0
+drwxr-xr-x. 2 myid 64 Dec  6 17:36 default-compile
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r--. 1 myid 104 Dec 16 10:33 createdFiles.lst
+-rw-r--r--. 1 myid 157 Dec 16 09:00 inputFiles.lst
+/home/myid/rtc00422/cs1302-arcade:/home/myid/csci-1302

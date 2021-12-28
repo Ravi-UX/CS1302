@@ -1,0 +1,36 @@
+cs1302-ce21:
+total 20
+drwxr-xr-x. 3 myid    28 Nov 17 17:11 bin
+-rw-r--r--. 1 myid 12337 Nov 17 15:28 README.md
+-rw-r--r--. 1 myid     0 Nov 17 19:40 rec11702
+drwxr-xr-x. 3 myid    28 Nov 17 16:59 src
+-rw-r--r--. 1 myid    31 Nov 17 19:39 SUBMISSION.md
+
+cs1302-ce21/bin:
+total 0
+drwxr-xr-x. 3 myid 26 Nov 17 17:11 cs1302
+
+cs1302-ce21/bin/cs1302:
+total 0
+drwxr-xr-x. 2 myid 94 Nov 17 17:11 ce21
+
+cs1302-ce21/bin/cs1302/ce21:
+total 12
+-rw-r--r--. 1 myid 1595 Nov 17 19:36 ImageApp.class
+-rw-r--r--. 1 myid  764 Nov 17 19:36 ImageDriver.class
+-rw-r--r--. 1 myid 2599 Nov 17 19:36 ImageLoader.class
+
+cs1302-ce21/src:
+total 0
+drwxr-xr-x. 3 myid 26 Nov 17 16:59 cs1302
+
+cs1302-ce21/src/cs1302:
+total 0
+drwxr-xr-x. 2 myid 91 Nov 17 19:36 ce21
+
+cs1302-ce21/src/cs1302/ce21:
+total 12
+-rw-r--r--. 1 myid 1300 Nov 17 19:36 ImageApp.java
+-rw-r--r--. 1 myid  471 Nov 17 17:11 ImageDriver.java
+-rw-r--r--. 1 myid 2561 Nov 17 17:11 ImageLoader.java
+/home/myid/rtc00422/cs1302-ce21:/home/myid/csci-1302

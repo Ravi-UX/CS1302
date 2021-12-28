@@ -1,0 +1,36 @@
+cs1302-listadt:
+total 100
+drwxr-xr-x. 3 myid    20 Oct  5 21:44 bin
+-rw-r--r--. 1 myid  2016 Oct  3 12:47 listadt.jar
+-rw-r--r--. 1 myid 21242 Oct  3 12:47 listadt_uml1_good.png
+-rw-r--r--. 1 myid 29758 Oct  3 12:47 listadt_uml2_good.png
+-rw-r--r--. 1 myid 37607 Oct  3 12:47 README.md
+-rw-r--r--. 1 myid     0 Oct  6 23:41 rec12864
+drwxr-xr-x. 3 myid    20 Oct  3 12:54 src
+
+cs1302-listadt/bin:
+total 0
+drwxr-xr-x. 3 myid 26 Oct  5 21:44 cs1302
+
+cs1302-listadt/bin/cs1302:
+total 0
+drwxr-xr-x. 2 myid 77 Oct  6 23:40 list
+
+cs1302-listadt/bin/cs1302/list:
+total 16
+-rw-r--r--. 1 myid 5419 Oct  6 23:39 ArrayStringList.class
+-rw-r--r--. 1 myid 6447 Oct  6 23:35 LinkedStringList.class
+
+cs1302-listadt/src:
+total 0
+drwxr-xr-x. 3 myid 26 Oct  3 12:54 cs1302
+
+cs1302-listadt/src/cs1302:
+total 0
+drwxr-xr-x. 2 myid 75 Oct  6 23:40 list
+
+cs1302-listadt/src/cs1302/list:
+total 32
+-rw-r--r--. 1 myid 12512 Oct  6 23:39 ArrayStringList.java
+-rw-r--r--. 1 myid 16203 Oct  6 23:35 LinkedStringList.java
+/home/myid/rtc00422/PROJ_DIR2/cs1302-listadt:/home/myid/csci-1302

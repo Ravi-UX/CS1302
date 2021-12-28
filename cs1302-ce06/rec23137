@@ -1,0 +1,167 @@
+cs1302-ce06:
+total 20
+drwxr-xr-x. 3 myid    46 Sep 10 17:11 bin
+drwxr-xr-x. 5 myid  4096 Sep 10 16:59 doc
+-rw-r--r--. 1 myid 11624 Sep 10 16:58 README.md
+-rw-r--r--. 1 myid     0 Sep 10 23:49 rec23137
+drwxr-xr-x. 3 myid    28 Sep 10 16:58 src
+-rw-r--r--. 1 myid   104 Sep 10 23:48 SUBMISSION.md
+
+cs1302-ce06/bin:
+total 0
+drwxr-xr-x. 3 myid 26 Sep 10 17:11 cs1302
+
+cs1302-ce06/bin/cs1302:
+total 0
+drwxr-xr-x. 4 myid 70 Sep 10 17:17 ce06
+
+cs1302-ce06/bin/cs1302/ce06:
+total 4
+drwxr-xr-x. 2 myid   36 Sep 10 17:11 contract
+-rw-r--r--. 1 myid 1781 Sep 10 23:44 Driver.class
+drwxr-xr-x. 2 myid   59 Sep 10 21:48 impl
+
+cs1302-ce06/bin/cs1302/ce06/contract:
+total 4
+-rw-r--r--. 1 myid 183 Sep 10 23:35 Drivable.class
+
+cs1302-ce06/bin/cs1302/ce06/impl:
+total 8
+-rw-r--r--. 1 myid 946 Sep 10 23:39 Car.class
+-rw-r--r--. 1 myid 965 Sep 10 23:39 Motorcycle.class
+
+cs1302-ce06/doc:
+total 164
+-rw-r--r--. 1 myid  1453 Sep 10 23:44 allclasses.html
+-rw-r--r--. 1 myid  6445 Sep 10 23:44 allclasses-index.html
+-rw-r--r--. 1 myid  5105 Sep 10 23:44 allpackages-index.html
+-rw-r--r--. 1 myid  4352 Sep 10 23:44 constant-values.html
+drwxr-xr-x. 3 myid    26 Sep 10 16:59 cs1302
+-rw-r--r--. 1 myid  4267 Sep 10 23:44 deprecated-list.html
+-rw-r--r--. 1 myid    50 Sep 10 23:44 element-list
+-rw-r--r--. 1 myid  9540 Sep 10 23:44 help-doc.html
+-rw-r--r--. 1 myid 12602 Sep 10 23:44 index-all.html
+-rw-r--r--. 1 myid  4949 Sep 10 23:44 index.html
+drwxr-xr-x. 6 myid  4096 Sep 10 16:59 jquery
+-rw-r--r--. 1 myid  1127 Sep 10 23:44 member-search-index.js
+-rw-r--r--. 1 myid   400 Sep 10 23:44 member-search-index.zip
+-rw-r--r--. 1 myid   686 Sep 10 23:44 overview-summary.html
+-rw-r--r--. 1 myid  5746 Sep 10 23:44 overview-tree.html
+-rw-r--r--. 1 myid   148 Sep 10 23:44 package-search-index.js
+-rw-r--r--. 1 myid   244 Sep 10 23:44 package-search-index.zip
+drwxr-xr-x. 2 myid    48 Sep 10 16:59 resources
+-rw-r--r--. 1 myid  5043 Sep 10 23:44 script.js
+-rw-r--r--. 1 myid 12302 Sep 10 23:44 search.js
+-rw-r--r--. 1 myid 22271 Sep 10 23:44 stylesheet.css
+-rw-r--r--. 1 myid   223 Sep 10 23:44 type-search-index.js
+-rw-r--r--. 1 myid   274 Sep 10 23:44 type-search-index.zip
+
+cs1302-ce06/doc/cs1302:
+total 0
+drwxr-xr-x. 4 myid 130 Sep 10 16:59 ce06
+
+cs1302-ce06/doc/cs1302/ce06:
+total 28
+drwxr-xr-x. 2 myid    96 Sep 10 16:59 contract
+-rw-r--r--. 1 myid 11459 Sep 10 23:44 Driver.html
+drwxr-xr-x. 2 myid   118 Sep 10 22:19 impl
+-rw-r--r--. 1 myid  5108 Sep 10 23:44 package-summary.html
+-rw-r--r--. 1 myid  4911 Sep 10 23:44 package-tree.html
+
+cs1302-ce06/doc/cs1302/ce06/contract:
+total 28
+-rw-r--r--. 1 myid 9742 Sep 10 23:44 Drivable.html
+-rw-r--r--. 1 myid 5087 Sep 10 23:44 package-summary.html
+-rw-r--r--. 1 myid 4979 Sep 10 23:44 package-tree.html
+
+cs1302-ce06/doc/cs1302/ce06/impl:
+total 48
+-rw-r--r--. 1 myid 13678 Sep 10 23:44 Car.html
+-rw-r--r--. 1 myid 14214 Sep 10 23:44 Motorcycle.html
+-rw-r--r--. 1 myid  5386 Sep 10 23:44 package-summary.html
+-rw-r--r--. 1 myid  5390 Sep 10 23:44 package-tree.html
+
+cs1302-ce06/doc/jquery:
+total 432
+drwxr-xr-x. 3 myid     28 Sep 10 16:59 external
+drwxr-xr-x. 2 myid   4096 Sep 10 16:59 images
+-rw-r--r--. 1 myid 280363 Sep 10 23:44 jquery-3.4.1.js
+-rw-r--r--. 1 myid  20275 Sep 10 23:44 jquery-ui.css
+-rw-r--r--. 1 myid  71563 Sep 10 23:44 jquery-ui.js
+-rw-r--r--. 1 myid  17416 Sep 10 23:44 jquery-ui.min.css
+-rw-r--r--. 1 myid  32162 Sep 10 23:44 jquery-ui.min.js
+-rw-r--r--. 1 myid   2555 Sep 10 23:44 jquery-ui.structure.css
+-rw-r--r--. 1 myid   1787 Sep 10 23:44 jquery-ui.structure.min.css
+drwxr-xr-x. 3 myid     26 Sep 10 16:59 jszip
+drwxr-xr-x. 3 myid     26 Sep 10 16:59 jszip-utils
+
+cs1302-ce06/doc/jquery/external:
+total 0
+drwxr-xr-x. 2 myid 31 Sep 10 16:59 jquery
+
+cs1302-ce06/doc/jquery/external/jquery:
+total 276
+-rw-r--r--. 1 myid 280363 Sep 10 23:44 jquery.js
+
+cs1302-ce06/doc/jquery/images:
+total 64
+-rw-r--r--. 1 myid  335 Sep 10 23:44 ui-bg_glass_55_fbf9ee_1x400.png
+-rw-r--r--. 1 myid  262 Sep 10 23:44 ui-bg_glass_65_dadada_1x400.png
+-rw-r--r--. 1 myid  262 Sep 10 23:44 ui-bg_glass_75_dadada_1x400.png
+-rw-r--r--. 1 myid  262 Sep 10 23:44 ui-bg_glass_75_e6e6e6_1x400.png
+-rw-r--r--. 1 myid  332 Sep 10 23:44 ui-bg_glass_95_fef1ec_1x400.png
+-rw-r--r--. 1 myid  280 Sep 10 23:44 ui-bg_highlight-soft_75_cccccc_1x100.png
+-rw-r--r--. 1 myid 6922 Sep 10 23:44 ui-icons_222222_256x240.png
+-rw-r--r--. 1 myid 4549 Sep 10 23:44 ui-icons_2e83ff_256x240.png
+-rw-r--r--. 1 myid 6992 Sep 10 23:44 ui-icons_454545_256x240.png
+-rw-r--r--. 1 myid 6999 Sep 10 23:44 ui-icons_888888_256x240.png
+-rw-r--r--. 1 myid 4549 Sep 10 23:44 ui-icons_cd0a0a_256x240.png
+
+cs1302-ce06/doc/jquery/jszip:
+total 0
+drwxr-xr-x. 2 myid 54 Sep 10 16:59 dist
+
+cs1302-ce06/doc/jquery/jszip/dist:
+total 456
+-rw-r--r--. 1 myid 366227 Sep 10 23:44 jszip.js
+-rw-r--r--. 1 myid  95827 Sep 10 23:44 jszip.min.js
+
+cs1302-ce06/doc/jquery/jszip-utils:
+total 0
+drwxr-xr-x. 2 myid 128 Sep 10 16:59 dist
+
+cs1302-ce06/doc/jquery/jszip-utils/dist:
+total 20
+-rw-r--r--. 1 myid 2444 Sep 10 23:44 jszip-utils-ie.js
+-rw-r--r--. 1 myid 1610 Sep 10 23:44 jszip-utils-ie.min.js
+-rw-r--r--. 1 myid 4483 Sep 10 23:44 jszip-utils.js
+-rw-r--r--. 1 myid 1777 Sep 10 23:44 jszip-utils.min.js
+
+cs1302-ce06/doc/resources:
+total 8
+-rw-r--r--. 1 myid 499 Sep 10 23:44 glass.png
+-rw-r--r--. 1 myid 394 Sep 10 23:44 x.png
+
+cs1302-ce06/src:
+total 0
+drwxr-xr-x. 3 myid 26 Sep 10 16:58 cs1302
+
+cs1302-ce06/src/cs1302:
+total 0
+drwxr-xr-x. 4 myid 69 Sep 10 23:44 ce06
+
+cs1302-ce06/src/cs1302/ce06:
+total 4
+drwxr-xr-x. 2 myid   35 Sep 10 23:15 contract
+-rw-r--r--. 1 myid 2510 Sep 10 23:44 Driver.java
+drwxr-xr-x. 2 myid   57 Sep 10 23:39 impl
+
+cs1302-ce06/src/cs1302/ce06/contract:
+total 4
+-rw-r--r--. 1 myid 780 Sep 10 23:15 Drivable.java
+
+cs1302-ce06/src/cs1302/ce06/impl:
+total 8
+-rw-r--r--. 1 myid 1664 Sep 10 23:35 Car.java
+-rw-r--r--. 1 myid 2151 Sep 10 23:39 Motorcycle.java
+/home/myid/rtc00422/cs1302-ce06:/home/myid/csci-1302

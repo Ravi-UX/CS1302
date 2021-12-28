@@ -1,0 +1,44 @@
+cs1302-ce20:
+total 52
+drwxr-xr-x. 3 myid    28 Nov 16 18:46 bin
+-rw-r--r--. 1 myid 11425 Nov 16 18:24 README.md
+-rw-r--r--. 1 myid  1223 Nov 17 00:58 rec339
+-rw-r--r--. 1 myid     0 Nov 17 15:27 rec6189
+drwxr-xr-x. 2 myid    96 Nov 16 18:24 resources
+-rw-r--r--. 1 myid 29197 Nov 16 18:24 ScreenShotCP1.png
+drwxr-xr-x. 3 myid    20 Nov 16 18:43 src
+-rw-r--r--. 1 myid    31 Nov 17 00:57 SUBMISSION.md
+
+cs1302-ce20/bin:
+total 0
+drwxr-xr-x. 3 myid 26 Nov 16 18:46 cs1302
+
+cs1302-ce20/bin/cs1302:
+total 0
+drwxr-xr-x. 2 myid 65 Nov 16 18:46 ce20
+
+cs1302-ce20/bin/cs1302/ce20:
+total 12
+-rw-r--r--. 1 myid 4632 Nov 17 15:23 ImageApp.class
+-rw-r--r--. 1 myid  800 Nov 17 15:23 ImageDriver.class
+
+cs1302-ce20/resources:
+total 16
+-rw-r--r--. 1 myid 1065 Nov 16 18:24 actual-size-50.png
+-rw-r--r--. 1 myid  622 Nov 16 18:24 default.png
+-rw-r--r--. 1 myid 1009 Nov 16 18:24 zoom-in-50.png
+-rw-r--r--. 1 myid  930 Nov 16 18:24 zoom-out-50.png
+
+cs1302-ce20/src:
+total 0
+drwxr-xr-x. 3 myid 26 Nov 16 18:44 cs1302
+
+cs1302-ce20/src/cs1302:
+total 0
+drwxr-xr-x. 2 myid 51 Nov 17 15:26 ce20
+
+cs1302-ce20/src/cs1302/ce20:
+total 12
+-rw-r--r--. 1 myid 4333 Nov 17 15:26 ImageApp.java
+-rw-r--r--. 1 myid  627 Nov 16 18:45 ImageDriver.java
+/home/myid/rtc00422/cs1302-ce20:/home/myid/csci-1302

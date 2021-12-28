@@ -1,0 +1,121 @@
+cs1302-ce05:
+total 20
+drwxr-xr-x. 2 myid    28 Sep  4 19:05 bin
+drwxr-xr-x. 5 myid  4096 Sep  4 19:49 doc
+-rw-r--r--. 1 myid 11524 Sep  4 19:05 README.md
+-rw-r--r--. 1 myid     0 Sep  4 21:45 rec16512
+drwxr-xr-x. 3 myid    28 Sep  4 19:05 src
+-rw-r--r--. 1 myid   125 Sep  4 21:45 SUBMISSION.md
+
+cs1302-ce05/bin:
+total 0
+
+cs1302-ce05/doc:
+total 148
+-rw-r--r--. 1 myid  1117 Sep  4 21:41 allclasses.html
+-rw-r--r--. 1 myid  4849 Sep  4 21:41 allclasses-index.html
+-rw-r--r--. 1 myid  4787 Sep  4 21:41 allpackages-index.html
+-rw-r--r--. 1 myid  4378 Sep  4 21:41 constant-values.html
+drwxr-xr-x. 3 myid    25 Sep  4 19:11 cs1302
+-rw-r--r--. 1 myid  4293 Sep  4 21:41 deprecated-list.html
+lrwxrwxrwx. 1 myid    35 Sep  4 19:49 doc -> /home/myid/rtc00422/cs1302-ce05/doc
+-rw-r--r--. 1 myid    11 Sep  4 21:41 element-list
+-rw-r--r--. 1 myid  9259 Sep  4 21:41 help-doc.html
+-rw-r--r--. 1 myid  7890 Sep  4 21:41 index-all.html
+-rw-r--r--. 1 myid   791 Sep  4 21:41 index.html
+drwxr-xr-x. 6 myid  4096 Sep  4 19:11 jquery
+-rw-r--r--. 1 myid   421 Sep  4 21:41 member-search-index.js
+-rw-r--r--. 1 myid   287 Sep  4 21:41 member-search-index.zip
+-rw-r--r--. 1 myid  4621 Sep  4 21:41 overview-tree.html
+-rw-r--r--. 1 myid    93 Sep  4 21:41 package-search-index.js
+-rw-r--r--. 1 myid   226 Sep  4 21:41 package-search-index.zip
+drwxr-xr-x. 2 myid    36 Sep  4 19:11 resources
+-rw-r--r--. 1 myid  5043 Sep  4 21:41 script.js
+-rw-r--r--. 1 myid 12302 Sep  4 21:41 search.js
+-rw-r--r--. 1 myid 22271 Sep  4 21:41 stylesheet.css
+-rw-r--r--. 1 myid   100 Sep  4 21:41 type-search-index.js
+-rw-r--r--. 1 myid   231 Sep  4 21:41 type-search-index.zip
+
+cs1302-ce05/doc/cs1302:
+total 0
+drwxr-xr-x. 2 myid 93 Sep  4 19:11 doc
+
+cs1302-ce05/doc/cs1302/doc:
+total 32
+-rw-r--r--. 1 myid 14668 Sep  4 21:41 House.html
+-rw-r--r--. 1 myid  4868 Sep  4 21:41 package-summary.html
+-rw-r--r--. 1 myid  4651 Sep  4 21:41 package-tree.html
+
+cs1302-ce05/doc/jquery:
+total 432
+drwxr-xr-x. 3 myid     28 Sep  4 19:11 external
+drwxr-xr-x. 2 myid   4096 Sep  4 19:11 images
+-rw-r--r--. 1 myid 280363 Sep  4 21:41 jquery-3.4.1.js
+-rw-r--r--. 1 myid  20275 Sep  4 21:41 jquery-ui.css
+-rw-r--r--. 1 myid  71563 Sep  4 21:41 jquery-ui.js
+-rw-r--r--. 1 myid  17416 Sep  4 21:41 jquery-ui.min.css
+-rw-r--r--. 1 myid  32162 Sep  4 21:41 jquery-ui.min.js
+-rw-r--r--. 1 myid   2555 Sep  4 21:41 jquery-ui.structure.css
+-rw-r--r--. 1 myid   1787 Sep  4 21:41 jquery-ui.structure.min.css
+drwxr-xr-x. 3 myid     18 Sep  4 19:11 jszip
+drwxr-xr-x. 3 myid     26 Sep  4 19:11 jszip-utils
+
+cs1302-ce05/doc/jquery/external:
+total 0
+drwxr-xr-x. 2 myid 31 Sep  4 19:11 jquery
+
+cs1302-ce05/doc/jquery/external/jquery:
+total 276
+-rw-r--r--. 1 myid 280363 Sep  4 21:41 jquery.js
+
+cs1302-ce05/doc/jquery/images:
+total 64
+-rw-r--r--. 1 myid  335 Sep  4 21:41 ui-bg_glass_55_fbf9ee_1x400.png
+-rw-r--r--. 1 myid  262 Sep  4 21:41 ui-bg_glass_65_dadada_1x400.png
+-rw-r--r--. 1 myid  262 Sep  4 21:41 ui-bg_glass_75_dadada_1x400.png
+-rw-r--r--. 1 myid  262 Sep  4 21:41 ui-bg_glass_75_e6e6e6_1x400.png
+-rw-r--r--. 1 myid  332 Sep  4 21:41 ui-bg_glass_95_fef1ec_1x400.png
+-rw-r--r--. 1 myid  280 Sep  4 21:41 ui-bg_highlight-soft_75_cccccc_1x100.png
+-rw-r--r--. 1 myid 6922 Sep  4 21:41 ui-icons_222222_256x240.png
+-rw-r--r--. 1 myid 4549 Sep  4 21:41 ui-icons_2e83ff_256x240.png
+-rw-r--r--. 1 myid 6992 Sep  4 21:41 ui-icons_454545_256x240.png
+-rw-r--r--. 1 myid 6999 Sep  4 21:41 ui-icons_888888_256x240.png
+-rw-r--r--. 1 myid 4549 Sep  4 21:41 ui-icons_cd0a0a_256x240.png
+
+cs1302-ce05/doc/jquery/jszip:
+total 0
+drwxr-xr-x. 2 myid 42 Sep  4 19:11 dist
+
+cs1302-ce05/doc/jquery/jszip/dist:
+total 456
+-rw-r--r--. 1 myid 366227 Sep  4 21:41 jszip.js
+-rw-r--r--. 1 myid  95827 Sep  4 21:41 jszip.min.js
+
+cs1302-ce05/doc/jquery/jszip-utils:
+total 0
+drwxr-xr-x. 2 myid 128 Sep  4 19:11 dist
+
+cs1302-ce05/doc/jquery/jszip-utils/dist:
+total 20
+-rw-r--r--. 1 myid 2444 Sep  4 21:41 jszip-utils-ie.js
+-rw-r--r--. 1 myid 1610 Sep  4 21:41 jszip-utils-ie.min.js
+-rw-r--r--. 1 myid 4483 Sep  4 21:41 jszip-utils.js
+-rw-r--r--. 1 myid 1777 Sep  4 21:41 jszip-utils.min.js
+
+cs1302-ce05/doc/resources:
+total 8
+-rw-r--r--. 1 myid 499 Sep  4 21:41 glass.png
+-rw-r--r--. 1 myid 394 Sep  4 21:41 x.png
+
+cs1302-ce05/src:
+total 0
+drwxr-xr-x. 3 myid 25 Sep  4 19:05 cs1302
+
+cs1302-ce05/src/cs1302:
+total 0
+drwxr-xr-x. 2 myid 32 Sep  4 21:40 doc
+
+cs1302-ce05/src/cs1302/doc:
+total 4
+-rw-r--r--. 1 myid 3322 Sep  4 21:40 House.java
+/home/myid/rtc00422/cs1302-ce05:/home/myid/csci-1302

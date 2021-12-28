@@ -1,0 +1,41 @@
+exercise1:
+total 4
+drwxr-xr-x. 2 myid  32 Aug 26 20:56 lit_works
+drwxr-xr-x. 5 myid  58 Aug 26 12:33 photos
+-rw-r--r--. 1 myid   0 Aug 28 13:10 rec9982
+drwxr-xr-x. 3 myid  26 Aug 26 13:07 school
+-rw-r--r--. 1 myid 335 Aug 28 13:06 SUBMISSION.md
+-rw-r--r--. 1 myid   0 Aug 28 13:02 SUBMISSION.md~
+
+exercise1/lit_works:
+total 596
+-rw-r--r--. 1 myid 607791 Jun 21 05:31 1661-0.txt
+
+exercise1/photos:
+total 0
+drwxr-xr-x. 2 myid 6 Aug 26 12:32 2017
+drwxr-xr-x. 2 myid 6 Aug 26 12:33 2018
+drwxr-xr-x. 2 myid 6 Aug 26 12:33 2019
+
+exercise1/photos/2017:
+total 0
+
+exercise1/photos/2018:
+total 0
+
+exercise1/photos/2019:
+total 0
+
+exercise1/school:
+total 0
+drwxr-xr-x. 3 myid 27 Aug 26 13:07 1302
+
+exercise1/school/1302:
+total 0
+drwxr-xr-x. 2 myid 51 Aug 26 19:56 notes
+
+exercise1/school/1302/notes:
+total 8
+-rw-r--r--. 1 myid 28 Aug 26 13:21 day1.txt
+-rw-r--r--. 1 myid 28 Aug 26 19:56 names.txt
+/home/myid/rtc00422/exercise1:/home/myid/csci-1302

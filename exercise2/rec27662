@@ -1,0 +1,41 @@
+exercise2:
+total 4
+drwxr-xr-x. 3 myid 28 Aug 28 18:13 bin
+-rw-r--r--. 1 myid  0 Aug 28 19:47 rec27662
+drwxr-xr-x. 3 myid 28 Aug 28 18:10 src
+-rw-r--r--. 1 myid 38 Aug 28 19:40 SUBMISSION.md
+
+exercise2/bin:
+total 0
+drwxr-xr-x. 4 myid 48 Aug 28 18:27 cs1302
+
+exercise2/bin/cs1302:
+total 0
+drwxr-xr-x. 2 myid 33 Aug 28 18:13 example
+drwxr-xr-x. 2 myid 37 Aug 28 18:27 utility
+
+exercise2/bin/cs1302/example:
+total 4
+-rw-r--r--. 1 myid 1200 Aug 28 18:48 Hello.class
+
+exercise2/bin/cs1302/utility:
+total 4
+-rw-r--r--. 1 myid 301 Aug 28 18:27 MyMethods.class
+
+exercise2/src:
+total 0
+drwxr-xr-x. 4 myid 48 Aug 28 18:16 cs1302
+
+exercise2/src/cs1302:
+total 0
+drwxr-xr-x. 2 myid 24 Aug 28 18:48 example
+drwxr-xr-x. 2 myid 36 Aug 28 18:27 utility
+
+exercise2/src/cs1302/example:
+total 4
+-rw-r--r--. 1 myid 429 Aug 28 18:47 Hello.java
+
+exercise2/src/cs1302/utility:
+total 4
+-rw-r--r--. 1 myid 157 Aug 28 18:24 MyMethods.java
+/home/myid/rtc00422/exercise2:/home/myid/csci-1302

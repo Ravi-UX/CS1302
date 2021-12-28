@@ -1,0 +1,148 @@
+cs1302-ce12:
+total 16
+drwxr-xr-x. 3 myid   20 Oct  1 16:54 bin
+drwxr-xr-x. 5 myid 4096 Oct  1 17:43 doc
+-rw-r--r--. 1 myid 7855 Oct  1 16:38 README.md
+-rw-r--r--. 1 myid    0 Oct  1 17:46 rec31705
+drwxr-xr-x. 2 myid   51 Oct  1 16:38 res
+drwxr-xr-x. 3 myid   20 Oct  1 16:38 src
+-rw-r--r--. 1 myid  141 Oct  1 17:46 SUBMISSION.md
+
+cs1302-ce12/bin:
+total 0
+drwxr-xr-x. 3 myid 51 Oct  1 16:54 cs1302
+
+cs1302-ce12/bin/cs1302:
+total 4
+drwxr-xr-x. 2 myid 195 Oct  1 17:19 ce12
+-rw-r--r--. 1 myid 951 Oct  1 16:54 Utility.class
+
+cs1302-ce12/bin/cs1302/ce12:
+total 24
+-rw-r--r--. 1 myid 573 Oct  1 16:54 BooleanContainer.class
+-rw-r--r--. 1 myid 549 Oct  1 17:22 Container.class
+-rw-r--r--. 1 myid 567 Oct  1 16:55 DoubleContainer.class
+-rw-r--r--. 1 myid 825 Oct  1 17:37 Driver.class
+-rw-r--r--. 1 myid 573 Oct  1 16:55 IntegerContainer.class
+-rw-r--r--. 1 myid 567 Oct  1 16:55 StringContainer.class
+
+cs1302-ce12/doc:
+total 160
+-rw-r--r--. 1 myid  1285 Oct  1 17:43 allclasses.html
+-rw-r--r--. 1 myid  5293 Oct  1 17:43 allclasses-index.html
+-rw-r--r--. 1 myid  4910 Oct  1 17:43 allpackages-index.html
+-rw-r--r--. 1 myid  4352 Oct  1 17:43 constant-values.html
+drwxr-xr-x. 3 myid   111 Oct  1 17:43 cs1302
+-rw-r--r--. 1 myid  4267 Oct  1 17:43 deprecated-list.html
+-rw-r--r--. 1 myid    19 Oct  1 17:43 element-list
+-rw-r--r--. 1 myid  9540 Oct  1 17:43 help-doc.html
+-rw-r--r--. 1 myid  8388 Oct  1 17:43 index-all.html
+-rw-r--r--. 1 myid  4746 Oct  1 17:43 index.html
+drwxr-xr-x. 6 myid  4096 Oct  1 17:43 jquery
+-rw-r--r--. 1 myid   592 Oct  1 17:43 member-search-index.js
+-rw-r--r--. 1 myid   349 Oct  1 17:43 member-search-index.zip
+-rw-r--r--. 1 myid   686 Oct  1 17:43 overview-summary.html
+-rw-r--r--. 1 myid  5052 Oct  1 17:43 overview-tree.html
+-rw-r--r--. 1 myid   109 Oct  1 17:43 package-search-index.js
+-rw-r--r--. 1 myid   228 Oct  1 17:43 package-search-index.zip
+drwxr-xr-x. 2 myid    36 Oct  1 17:43 resources
+-rw-r--r--. 1 myid  5043 Oct  1 17:43 script.js
+-rw-r--r--. 1 myid 12302 Oct  1 17:43 search.js
+-rw-r--r--. 1 myid 22271 Oct  1 17:43 stylesheet.css
+-rw-r--r--. 1 myid   167 Oct  1 17:43 type-search-index.js
+-rw-r--r--. 1 myid   254 Oct  1 17:43 type-search-index.zip
+
+cs1302-ce12/doc/cs1302:
+total 28
+drwxr-xr-x. 2 myid  120 Oct  1 17:43 ce12
+-rw-r--r--. 1 myid 4826 Oct  1 17:43 package-summary.html
+-rw-r--r--. 1 myid 4828 Oct  1 17:43 package-tree.html
+-rw-r--r--. 1 myid 9894 Oct  1 17:43 Utility.html
+
+cs1302-ce12/doc/cs1302/ce12:
+total 40
+-rw-r--r--. 1 myid 11054 Oct  1 17:43 Container.html
+-rw-r--r--. 1 myid  9522 Oct  1 17:43 Driver.html
+-rw-r--r--. 1 myid  5246 Oct  1 17:43 package-summary.html
+-rw-r--r--. 1 myid  5049 Oct  1 17:43 package-tree.html
+
+cs1302-ce12/doc/jquery:
+total 432
+drwxr-xr-x. 3 myid     28 Oct  1 17:43 external
+drwxr-xr-x. 2 myid   4096 Oct  1 17:43 images
+-rw-r--r--. 1 myid 280363 Oct  1 17:43 jquery-3.4.1.js
+-rw-r--r--. 1 myid  20275 Oct  1 17:43 jquery-ui.css
+-rw-r--r--. 1 myid  71563 Oct  1 17:43 jquery-ui.js
+-rw-r--r--. 1 myid  17416 Oct  1 17:43 jquery-ui.min.css
+-rw-r--r--. 1 myid  32162 Oct  1 17:43 jquery-ui.min.js
+-rw-r--r--. 1 myid   2555 Oct  1 17:43 jquery-ui.structure.css
+-rw-r--r--. 1 myid   1787 Oct  1 17:43 jquery-ui.structure.min.css
+drwxr-xr-x. 3 myid     18 Oct  1 17:43 jszip
+drwxr-xr-x. 3 myid     26 Oct  1 17:43 jszip-utils
+
+cs1302-ce12/doc/jquery/external:
+total 0
+drwxr-xr-x. 2 myid 31 Oct  1 17:43 jquery
+
+cs1302-ce12/doc/jquery/external/jquery:
+total 276
+-rw-r--r--. 1 myid 280363 Oct  1 17:43 jquery.js
+
+cs1302-ce12/doc/jquery/images:
+total 64
+-rw-r--r--. 1 myid  335 Oct  1 17:43 ui-bg_glass_55_fbf9ee_1x400.png
+-rw-r--r--. 1 myid  262 Oct  1 17:43 ui-bg_glass_65_dadada_1x400.png
+-rw-r--r--. 1 myid  262 Oct  1 17:43 ui-bg_glass_75_dadada_1x400.png
+-rw-r--r--. 1 myid  262 Oct  1 17:43 ui-bg_glass_75_e6e6e6_1x400.png
+-rw-r--r--. 1 myid  332 Oct  1 17:43 ui-bg_glass_95_fef1ec_1x400.png
+-rw-r--r--. 1 myid  280 Oct  1 17:43 ui-bg_highlight-soft_75_cccccc_1x100.png
+-rw-r--r--. 1 myid 6922 Oct  1 17:43 ui-icons_222222_256x240.png
+-rw-r--r--. 1 myid 4549 Oct  1 17:43 ui-icons_2e83ff_256x240.png
+-rw-r--r--. 1 myid 6992 Oct  1 17:43 ui-icons_454545_256x240.png
+-rw-r--r--. 1 myid 6999 Oct  1 17:43 ui-icons_888888_256x240.png
+-rw-r--r--. 1 myid 4549 Oct  1 17:43 ui-icons_cd0a0a_256x240.png
+
+cs1302-ce12/doc/jquery/jszip:
+total 0
+drwxr-xr-x. 2 myid 42 Oct  1 17:43 dist
+
+cs1302-ce12/doc/jquery/jszip/dist:
+total 456
+-rw-r--r--. 1 myid 366227 Oct  1 17:43 jszip.js
+-rw-r--r--. 1 myid  95827 Oct  1 17:43 jszip.min.js
+
+cs1302-ce12/doc/jquery/jszip-utils:
+total 0
+drwxr-xr-x. 2 myid 128 Oct  1 17:43 dist
+
+cs1302-ce12/doc/jquery/jszip-utils/dist:
+total 20
+-rw-r--r--. 1 myid 2444 Oct  1 17:43 jszip-utils-ie.js
+-rw-r--r--. 1 myid 1610 Oct  1 17:43 jszip-utils-ie.min.js
+-rw-r--r--. 1 myid 4483 Oct  1 17:43 jszip-utils.js
+-rw-r--r--. 1 myid 1777 Oct  1 17:43 jszip-utils.min.js
+
+cs1302-ce12/doc/resources:
+total 8
+-rw-r--r--. 1 myid 499 Oct  1 17:43 glass.png
+-rw-r--r--. 1 myid 394 Oct  1 17:43 x.png
+
+cs1302-ce12/res:
+total 68
+-rw-r--r--. 1 myid 10833 Oct  1 16:38 ce12.asta
+-rw-r--r--. 1 myid 55562 Oct  1 16:38 ce12.png
+
+cs1302-ce12/src:
+total 0
+drwxr-xr-x. 3 myid 50 Oct  1 16:38 cs1302
+
+cs1302-ce12/src/cs1302:
+total 4
+drwxr-xr-x. 2 myid  47 Oct  1 17:37 ce12
+-rw-r--r--. 1 myid 795 Oct  1 16:38 Utility.java
+
+cs1302-ce12/src/cs1302/ce12:
+total 8
+-rw-r--r--. 1 myid 1180 Oct  1 17:22 Container.java
+-rw-r--r--. 1 myid  876 Oct  1 17:37 Driver.java
+/home/myid/rtc00422/cs1302-ce12:/home/myid/csci-1302

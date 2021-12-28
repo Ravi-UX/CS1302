@@ -1,0 +1,45 @@
+cs1302-ce14:
+total 24
+drwxr-xr-x. 3 myid    28 Oct 17 15:04 bin
+-rw-r--r--. 1 myid   292 Oct 17 16:59 NOTES.md
+-rw-r--r--. 1 myid 15737 Oct 17 15:03 README.md
+-rw-r--r--. 1 myid     0 Oct 20 19:06 rec598
+drwxr-xr-x. 3 myid    28 Oct 17 15:03 src
+-rw-r--r--. 1 myid    31 Oct 20 19:05 SUBMISSION.md
+
+cs1302-ce14/bin:
+total 0
+drwxr-xr-x. 3 myid 51 Oct 17 15:05 cs1302
+
+cs1302-ce14/bin/cs1302:
+total 4
+drwxr-xr-x. 2 myid 157 Oct 17 15:05 ce14
+-rw-r--r--. 1 myid 960 Oct 17 15:04 Utility.class
+
+cs1302-ce14/bin/cs1302/ce14:
+total 24
+-rw-r--r--. 1 myid  631 Oct 17 15:05 Circle.class
+-rw-r--r--. 1 myid 1275 Oct 17 16:55 Driver.class
+-rw-r--r--. 1 myid  772 Oct 17 15:05 Ellipse.class
+-rw-r--r--. 1 myid  614 Oct 17 15:05 Rectangle.class
+-rw-r--r--. 1 myid  996 Oct 17 15:05 Shape.class
+-rw-r--r--. 1 myid  284 Oct 17 15:05 Square.class
+
+cs1302-ce14/src:
+total 0
+drwxr-xr-x. 3 myid 50 Oct 17 15:03 cs1302
+
+cs1302-ce14/src/cs1302:
+total 4
+drwxr-xr-x. 2 myid 151 Oct 17 16:56 ce14
+-rw-r--r--. 1 myid 875 Oct 17 15:03 Utility.java
+
+cs1302-ce14/src/cs1302/ce14:
+total 24
+-rw-r--r--. 1 myid 2003 Oct 17 15:03 Circle.java
+-rw-r--r--. 1 myid 1343 Oct 17 16:56 Driver.java
+-rw-r--r--. 1 myid 2276 Oct 17 15:03 Ellipse.java
+-rw-r--r--. 1 myid 1449 Oct 17 15:03 Rectangle.java
+-rw-r--r--. 1 myid 1626 Oct 17 15:03 Shape.java
+-rw-r--r--. 1 myid  449 Oct 17 15:03 Square.java
+/home/myid/rtc00422/cs1302-ce14:/home/myid/csci-1302
